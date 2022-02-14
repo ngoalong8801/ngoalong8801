@@ -1,12 +1,12 @@
-### Hi there, I'm Phu Minh 👋 
+### Hi there, I'm Phu Minh 
 
 
 
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other programmers
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to read book and play guitar.
+- I’m currently learning everything
+- I’m looking to collaborate with other programmers
+- 2021 Goals: Contribute more to Open Source projects
+- Fun fact: I love to read book and play guitar.
 
 ### Connect with me:
 
